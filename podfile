@@ -1,0 +1,2 @@
+use_frameworks!
+pod 'FDFullscreenPopGesture', '1.1'
